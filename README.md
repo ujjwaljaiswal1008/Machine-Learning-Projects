@@ -1,11 +1,3 @@
-
----
-
-## 📝 7. Main Repo `README.md`
-
-In `ML-Projects/README.md`:
-
-```md
 # 🚀 Machine Learning Projects
 
 A collection of end-to-end Machine Learning & Data Science projects.
